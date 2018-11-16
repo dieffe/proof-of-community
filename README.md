@@ -1,4 +1,4 @@
-# proof-of-community
+# Proof-of-community aka P-oC
 
 The motivation behind Proof-of-community (P-oC) new consensus mechanism is to remove the need of the proof-of-work (P-oW) to ensure consensus and finality to the blocks in the blockchain.
 
